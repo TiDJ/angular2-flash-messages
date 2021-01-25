@@ -35,7 +35,7 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "@angular/core": "^6.0.0"
+    "@angular/core": "^7.2.16"
   },
   "devDependencies": {
     "@angular/common": "^7.2.16",
